@@ -1,5 +1,6 @@
 # Retrofit_Example
-Basic project in retrofit that displays anime quote's
+Basic project in retrofit that displays anime quote's.
+
 The project uses Retrofit2, Okhttpclient, Gson converter factory and Native components.
 <p float = "left">
 <H2>ScreenShot</H2>
